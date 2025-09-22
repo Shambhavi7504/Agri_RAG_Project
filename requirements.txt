@@ -1,0 +1,7 @@
+langchain
+sentence-transformers
+faiss-cpu
+transformers
+duckduckgo-search
+beautifulsoup4
+requests
