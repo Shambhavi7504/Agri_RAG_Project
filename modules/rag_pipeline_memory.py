@@ -8,7 +8,7 @@ from langchain_community.vectorstores import FAISS
 from langchain.docstore.document import Document
 
 def build_hybrid_rag_with_memory():
-    llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")  # Add your API key in env
+    llm = ChatGoogleGenerativeAI(model="gemini-2.5-flash")  # Add your API key in env
 
     # Build retrievers
     pdf_retriever = build_pdf_retriever()

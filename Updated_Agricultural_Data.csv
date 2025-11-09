@@ -1,0 +1,101 @@
+Serial No.,Commodity Name,Commodity Price (₹/kg),Supply-Demand Trend,Market Forecast,Financial Program,Government Policy,Government Subsidy,Government Policy Published Year
+1,Wheat,20.0,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Increased MSP,MSP Support,2018
+2,Rice,21.2,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Export Policy Update,Subsidy on Export,2019
+3,Sugar,22.4,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Import Duty Reduction,Subsidy on Processing Units,2020
+4,Coffee,23.6,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Organic Farming Promotion,Subsidy on Storage,2021
+5,Tea,24.8,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Agri-Export Policy,Credit Support for Farmers,2022
+6,Maize,26.0,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Loan Interest Waiver,Subsidy for Machinery Purchase,2023
+7,Cotton,27.2,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Market Linkage Support,Irrigation Support Scheme,2024
+8,Pulses,28.4,Stable demand,Moderate price increase,Horticulture Mission for North East,Crop Insurance Expansion,Cold Storage Subsidy,2018
+9,Mustard,29.6,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Climate-Resilient Agriculture Policy,Seed Subsidy,2019
+10,Soybean,30.8,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Digital Agriculture Promotion,Fertilizer Subsidy,2020
+11,Barley,32.0,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Water Conservation Policy,Dairy Farming Support,2021
+12,Groundnut,33.2,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Soil Health Management Policy,Renewable Energy for Farms,2022
+13,Jowar,34.4,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Precision Farming Promotion,Farm Mechanization Subsidy,2023
+14,Bajra,35.6,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Increased MSP,MSP Support,2024
+15,Ragi,36.8,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Export Policy Update,Subsidy on Export,2018
+16,Sunflower,38.0,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Import Duty Reduction,Subsidy on Processing Units,2019
+17,Sesame,39.2,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Organic Farming Promotion,Subsidy on Storage,2020
+18,Linseed,40.4,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Agri-Export Policy,Credit Support for Farmers,2021
+19,Castor Seed,41.6,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Loan Interest Waiver,Subsidy for Machinery Purchase,2022
+20,Peas,42.8,Stable demand,Moderate price increase,Horticulture Mission for North East,Market Linkage Support,Irrigation Support Scheme,2023
+21,Lentils,44.0,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Crop Insurance Expansion,Cold Storage Subsidy,2024
+22,Chickpeas,45.2,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Climate-Resilient Agriculture Policy,Seed Subsidy,2018
+23,Turmeric,46.4,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Digital Agriculture Promotion,Fertilizer Subsidy,2019
+24,Black Pepper,47.6,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Water Conservation Policy,Dairy Farming Support,2020
+25,Cardamom,48.8,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Soil Health Management Policy,Renewable Energy for Farms,2021
+26,Coriander,50.0,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Precision Farming Promotion,Farm Mechanization Subsidy,2022
+27,Cumin,51.2,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Increased MSP,MSP Support,2023
+28,Garlic,52.4,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Export Policy Update,Subsidy on Export,2024
+29,Onion,53.6,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Import Duty Reduction,Subsidy on Processing Units,2018
+30,Potato,54.8,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Organic Farming Promotion,Subsidy on Storage,2019
+31,Tomato,56.0,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Agri-Export Policy,Credit Support for Farmers,2020
+32,Brinjal,57.2,Stable demand,Moderate price increase,Horticulture Mission for North East,Loan Interest Waiver,Subsidy for Machinery Purchase,2021
+33,Carrot,58.4,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Market Linkage Support,Irrigation Support Scheme,2022
+34,Cabbage,59.6,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Crop Insurance Expansion,Cold Storage Subsidy,2023
+35,Cauliflower,60.8,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Climate-Resilient Agriculture Policy,Seed Subsidy,2024
+36,Spinach,62.0,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Digital Agriculture Promotion,Fertilizer Subsidy,2018
+37,Lettuce,63.2,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Water Conservation Policy,Dairy Farming Support,2019
+38,Pumpkin,64.4,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Soil Health Management Policy,Renewable Energy for Farms,2020
+39,Watermelon,65.6,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Precision Farming Promotion,Farm Mechanization Subsidy,2021
+40,Mango,66.8,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Increased MSP,MSP Support,2022
+41,Banana,68.0,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Export Policy Update,Subsidy on Export,2023
+42,Apple,69.2,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Import Duty Reduction,Subsidy on Processing Units,2024
+43,Grapes,70.4,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Organic Farming Promotion,Subsidy on Storage,2018
+44,Pomegranate,71.6,Stable demand,Moderate price increase,Horticulture Mission for North East,Agri-Export Policy,Credit Support for Farmers,2019
+45,Papaya,72.8,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Loan Interest Waiver,Subsidy for Machinery Purchase,2020
+46,Guava,74.0,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Market Linkage Support,Irrigation Support Scheme,2021
+47,Pineapple,75.2,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Crop Insurance Expansion,Cold Storage Subsidy,2022
+48,Coconut,76.4,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Climate-Resilient Agriculture Policy,Seed Subsidy,2023
+49,Cashew Nut,77.6,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Digital Agriculture Promotion,Fertilizer Subsidy,2024
+50,Arecanut,78.8,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Water Conservation Policy,Dairy Farming Support,2018
+51,Almond,20.0,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Soil Health Management Policy,Renewable Energy for Farms,2019
+52,Walnut,21.2,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Precision Farming Promotion,Farm Mechanization Subsidy,2020
+53,Peach,22.4,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Increased MSP,MSP Support,2021
+54,Plum,23.6,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Export Policy Update,Subsidy on Export,2022
+55,Strawberry,24.8,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Import Duty Reduction,Subsidy on Processing Units,2023
+56,Kiwi,26.0,Stable demand,Moderate price increase,Horticulture Mission for North East,Organic Farming Promotion,Subsidy on Storage,2024
+57,Dragon Fruit,27.2,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Agri-Export Policy,Credit Support for Farmers,2018
+58,Jackfruit,28.4,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Loan Interest Waiver,Subsidy for Machinery Purchase,2019
+59,Lychee,29.6,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Market Linkage Support,Irrigation Support Scheme,2020
+60,Date Palm,30.8,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Crop Insurance Expansion,Cold Storage Subsidy,2021
+61,Rubber,32.0,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Climate-Resilient Agriculture Policy,Seed Subsidy,2022
+62,Jute,33.2,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Digital Agriculture Promotion,Fertilizer Subsidy,2023
+63,Tobacco,34.4,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Water Conservation Policy,Dairy Farming Support,2024
+64,Cotton,35.6,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Soil Health Management Policy,Renewable Energy for Farms,2018
+65,Millets,36.8,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Precision Farming Promotion,Farm Mechanization Subsidy,2019
+66,Soybean,38.0,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Increased MSP,MSP Support,2020
+67,Flaxseed,39.2,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Export Policy Update,Subsidy on Export,2021
+68,Canola,40.4,Stable demand,Moderate price increase,Horticulture Mission for North East,Import Duty Reduction,Subsidy on Processing Units,2022
+69,Sorghum,41.6,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Organic Farming Promotion,Subsidy on Storage,2023
+70,Beetroot,42.8,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Agri-Export Policy,Credit Support for Farmers,2024
+71,Sweet Potato,44.0,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Loan Interest Waiver,Subsidy for Machinery Purchase,2018
+72,Radish,45.2,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Market Linkage Support,Irrigation Support Scheme,2019
+73,Turnip,46.4,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Crop Insurance Expansion,Cold Storage Subsidy,2020
+74,Okra,47.6,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Climate-Resilient Agriculture Policy,Seed Subsidy,2021
+75,Green Beans,48.8,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Digital Agriculture Promotion,Fertilizer Subsidy,2022
+76,Peas,50.0,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Water Conservation Policy,Dairy Farming Support,2023
+77,Broccoli,51.2,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Soil Health Management Policy,Renewable Energy for Farms,2024
+78,Celery,52.4,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Precision Farming Promotion,Farm Mechanization Subsidy,2018
+79,Parsley,53.6,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Increased MSP,MSP Support,2019
+80,Basil,54.8,Stable demand,Moderate price increase,Horticulture Mission for North East,Export Policy Update,Subsidy on Export,2020
+81,Chili,56.0,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Import Duty Reduction,Subsidy on Processing Units,2021
+82,Bitter Gourd,57.2,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Organic Farming Promotion,Subsidy on Storage,2022
+83,Bottle Gourd,58.4,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Agri-Export Policy,Credit Support for Farmers,2023
+84,Ash Gourd,59.6,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Loan Interest Waiver,Subsidy for Machinery Purchase,2024
+85,Zucchini,60.8,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Market Linkage Support,Irrigation Support Scheme,2018
+86,Mushrooms,62.0,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Crop Insurance Expansion,Cold Storage Subsidy,2019
+87,Corn,63.2,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Climate-Resilient Agriculture Policy,Seed Subsidy,2020
+88,Bamboo,64.4,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Digital Agriculture Promotion,Fertilizer Subsidy,2021
+89,Betel Leaf,65.6,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Water Conservation Policy,Dairy Farming Support,2022
+90,Nutmeg,66.8,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Soil Health Management Policy,Renewable Energy for Farms,2023
+91,Cloves,68.0,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Precision Farming Promotion,Farm Mechanization Subsidy,2024
+92,Vanilla,69.2,Stable demand,Moderate price increase,Horticulture Mission for North East,Increased MSP,MSP Support,2018
+93,Saffron,70.4,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Export Policy Update,Subsidy on Export,2019
+94,Sesame Seeds,71.6,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Import Duty Reduction,Subsidy on Processing Units,2020
+95,Palm Oil,72.8,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Organic Farming Promotion,Subsidy on Storage,2021
+96,Olives,74.0,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Agri-Export Policy,Credit Support for Farmers,2022
+97,Gooseberry,75.2,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Loan Interest Waiver,Subsidy for Machinery Purchase,2023
+98,Aloe Vera,76.4,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Market Linkage Support,Irrigation Support Scheme,2024
+99,Neem,77.6,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Crop Insurance Expansion,Cold Storage Subsidy,2018
+100,Tulsi,78.8,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Climate-Resilient Agriculture Policy,Seed Subsidy,2019

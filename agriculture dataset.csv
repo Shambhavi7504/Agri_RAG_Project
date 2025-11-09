@@ -1,0 +1,301 @@
+Serial No.,Commodity Name,Commodity Price (₹/kg),Supply-Demand Trend,Market Forecast,Financial Program,Government Policy,Government Subsidy,Government Policy Published Year,Price Change (%)
+1,Wheat,20.0,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Increased MSP,MSP Support,2018,-1.254598811526375
+2,Rice,21.2,High demand,Strong price increase,PM-Kisan Samman Nidhi,Export Policy Update,Subsidy on Export,2019,4.507143064099161
+3,Sugar,22.4,High demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Import Duty Reduction,Subsidy on Processing Units,2020,2.3199394181140507
+4,Coffee,23.6,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Organic Farming Promotion,Subsidy on Storage,2021,0.986584841970366
+5,Tea,24.8,Excess supply,Potential price drop,Rashtriya Krishi Vikas Yojana (RKVY),Agri-Export Policy,Credit Support for Farmers,2022,-3.439813595575635
+6,Maize,26.0,Excess supply,Potential price drop,National Food Security Mission (NFSM),Loan Interest Waiver,Subsidy for Machinery Purchase,2023,-3.4400547966379733
+7,Cotton,27.2,Excess supply,Potential price drop,Cotton Corporation of India MSP Scheme,Market Linkage Support,Irrigation Support Scheme,2024,-4.419163878318005
+8,Pulses,28.4,High demand,Strong price increase,Horticulture Mission for North East,Crop Insurance Expansion,Cold Storage Subsidy,2018,3.6617614577493516
+9,Mustard,29.6,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Climate-Resilient Agriculture Policy,Seed Subsidy,2019,1.0111501174320878
+10,Soybean,30.8,High demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Digital Agriculture Promotion,Fertilizer Subsidy,2020,2.0807257779604544
+11,Barley,32.0,Excess supply,Potential price drop,Fisheries and Aquaculture Development Fund,Water Conservation Policy,Dairy Farming Support,2021,-4.7941550570419755
+12,Groundnut,33.2,High demand,Strong price increase,Cold Storage Subsidy Scheme,Soil Health Management Policy,Renewable Energy for Farms,2022,4.699098521619943
+13,Jowar,34.4,High demand,Strong price increase,PM Fasal Bima Yojana (PMFBY),Precision Farming Promotion,Farm Mechanization Subsidy,2023,3.324426408004218
+14,Bajra,35.6,Excess supply,Moderate price increase,PM-Kisan Samman Nidhi,Increased MSP,MSP Support,2024,-2.8766088932172384
+15,Ragi,36.8,Excess supply,Potential price drop,Agriculture Infrastructure Fund (AIF),Export Policy Update,Subsidy on Export,2018,-3.181750327928994
+16,Sunflower,38.0,Excess supply,Potential price drop,Interest Subvention Scheme (ISS),Import Duty Reduction,Subsidy on Processing Units,2019,-3.165954901465662
+17,Sesame,39.2,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Organic Farming Promotion,Subsidy on Storage,2020,-1.9575775704046228
+18,Linseed,40.4,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Agri-Export Policy,Credit Support for Farmers,2021,0.24756431632237863
+19,Castor Seed,41.6,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Loan Interest Waiver,Subsidy for Machinery Purchase,2022,-0.6805498135788426
+20,Peas,42.8,Excess supply,Moderate price increase,Horticulture Mission for North East,Market Linkage Support,Irrigation Support Scheme,2023,-2.0877085980195806
+21,Lentils,44.0,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Crop Insurance Expansion,Cold Storage Subsidy,2024,1.118528947223795
+22,Chickpeas,45.2,Excess supply,Potential price drop,Dairy Entrepreneurship Development Scheme,Climate-Resilient Agriculture Policy,Seed Subsidy,2018,-3.6050613934795814
+23,Turmeric,46.4,Excess supply,Moderate price increase,Fisheries and Aquaculture Development Fund,Digital Agriculture Promotion,Fertilizer Subsidy,2019,-2.0785535146478185
+24,Black Pepper,47.6,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Water Conservation Policy,Dairy Farming Support,2020,-1.336381567063083
+25,Cardamom,48.8,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Soil Health Management Policy,Renewable Energy for Farms,2021,-0.43930015782964027
+26,Coriander,50.0,High demand,Moderate price increase,PM-Kisan Samman Nidhi,Precision Farming Promotion,Farm Mechanization Subsidy,2022,2.8517596139301364
+27,Cumin,51.2,Excess supply,Potential price drop,Agriculture Infrastructure Fund (AIF),Increased MSP,MSP Support,2023,-3.003262178416403
+28,Garlic,52.4,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Export Policy Update,Subsidy on Export,2024,0.14234438413611628
+29,Onion,53.6,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Import Duty Reduction,Subsidy on Processing Units,2018,0.9241456886204249
+30,Potato,54.8,Excess supply,Potential price drop,National Food Security Mission (NFSM),Organic Farming Promotion,Subsidy on Storage,2019,-4.5354958728000225
+31,Tomato,56.0,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Agri-Export Policy,Credit Support for Farmers,2020,1.0754485190143832
+32,Brinjal,57.2,Excess supply,Potential price drop,Horticulture Mission for North East,Loan Interest Waiver,Subsidy for Machinery Purchase,2021,-3.294758763127085
+33,Carrot,58.4,Excess supply,Potential price drop,Organic Farming Promotion Scheme,Market Linkage Support,Irrigation Support Scheme,2022,-4.349484070147205
+34,Cabbage,59.6,High demand,Strong price increase,Dairy Entrepreneurship Development Scheme,Crop Insurance Expansion,Cold Storage Subsidy,2023,4.488855372533333
+35,Cauliflower,60.8,High demand,Strong price increase,Fisheries and Aquaculture Development Fund,Climate-Resilient Agriculture Policy,Seed Subsidy,2024,4.656320330745594
+36,Spinach,62.0,High demand,Strong price increase,Cold Storage Subsidy Scheme,Digital Agriculture Promotion,Fertilizer Subsidy,2018,3.0839734811646107
+37,Lettuce,63.2,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Water Conservation Policy,Dairy Farming Support,2019,-1.9538623082662934
+38,Pumpkin,64.4,Excess supply,Potential price drop,PM-Kisan Samman Nidhi,Soil Health Management Policy,Renewable Energy for Farms,2020,-4.023278859936161
+39,Watermelon,65.6,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Precision Farming Promotion,Farm Mechanization Subsidy,2021,1.8423302651215687
+40,Mango,66.8,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Increased MSP,MSP Support,2022,-0.5984750626039865
+41,Banana,68.0,Excess supply,Potential price drop,Rashtriya Krishi Vikas Yojana (RKVY),Export Policy Update,Subsidy on Export,2023,-3.7796176515522117
+42,Apple,69.2,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Import Duty Reduction,Subsidy on Processing Units,2024,-0.048230898887298146
+43,Grapes,70.4,Excess supply,Potential price drop,Cotton Corporation of India MSP Scheme,Organic Farming Promotion,Subsidy on Storage,2018,-4.656114788847816
+44,Pomegranate,71.6,High demand,Strong price increase,Horticulture Mission for North East,Agri-Export Policy,Credit Support for Farmers,2019,4.093204020787821
+45,Papaya,72.8,Excess supply,Moderate price increase,Organic Farming Promotion Scheme,Loan Interest Waiver,Subsidy for Machinery Purchase,2020,-2.412200183999831
+46,Guava,74.0,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Market Linkage Support,Irrigation Support Scheme,2021,1.6252228435398202
+47,Pineapple,75.2,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Crop Insurance Expansion,Cold Storage Subsidy,2022,-1.8828892391058902
+48,Coconut,76.4,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Climate-Resilient Agriculture Policy,Seed Subsidy,2023,0.20068021177810813
+49,Cashew Nut,77.6,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Digital Agriculture Promotion,Fertilizer Subsidy,2024,0.4671027934327965
+50,Arecanut,78.8,Excess supply,Potential price drop,PM-Kisan Samman Nidhi,Water Conservation Policy,Dairy Farming Support,2018,-3.1514554447447294
+51,Almond,20.0,High demand,Strong price increase,Agriculture Infrastructure Fund (AIF),Soil Health Management Policy,Renewable Energy for Farms,2019,4.695846277645586
+52,Walnut,21.2,High demand,Moderate price increase,Interest Subvention Scheme (ISS),Precision Farming Promotion,Farm Mechanization Subsidy,2020,2.7513282336111455
+53,Peach,22.4,High demand,Strong price increase,Rashtriya Krishi Vikas Yojana (RKVY),Increased MSP,MSP Support,2021,4.394989415641891
+54,Plum,23.6,High demand,Strong price increase,National Food Security Mission (NFSM),Export Policy Update,Subsidy on Export,2022,3.9482735042764876
+55,Strawberry,24.8,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Import Duty Reduction,Subsidy on Processing Units,2023,0.9789997881108512
+56,Kiwi,26.0,High demand,Strong price increase,Horticulture Mission for North East,Organic Farming Promotion,Subsidy on Storage,2024,4.218742350231167
+57,Dragon Fruit,27.2,Excess supply,Potential price drop,Organic Farming Promotion Scheme,Agri-Export Policy,Credit Support for Farmers,2018,-4.115074979480805
+58,Jackfruit,28.4,Excess supply,Potential price drop,Dairy Entrepreneurship Development Scheme,Loan Interest Waiver,Subsidy for Machinery Purchase,2019,-3.040171375808548
+59,Lychee,29.6,Excess supply,Potential price drop,Fisheries and Aquaculture Development Fund,Market Linkage Support,Irrigation Support Scheme,2020,-4.54772711089462
+60,Date Palm,30.8,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Crop Insurance Expansion,Cold Storage Subsidy,2021,-1.7466966923673564
+61,Rubber,32.0,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Climate-Resilient Agriculture Policy,Seed Subsidy,2022,-1.1132271031051797
+62,Jute,33.2,Excess supply,Moderate price increase,PM-Kisan Samman Nidhi,Digital Agriculture Promotion,Fertilizer Subsidy,2023,-2.286509682261041
+63,Tobacco,34.4,High demand,Strong price increase,Agriculture Infrastructure Fund (AIF),Water Conservation Policy,Dairy Farming Support,2024,3.2873750915192943
+64,Cotton,35.6,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Soil Health Management Policy,Renewable Energy for Farms,2018,-1.432466733064107
+65,Millets,36.8,Excess supply,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Precision Farming Promotion,Farm Mechanization Subsidy,2019,-2.1906549031261924
+66,Soybean,38.0,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Increased MSP,MSP Support,2020,0.4269608315824849
+67,Flaxseed,39.2,Excess supply,Potential price drop,Cotton Corporation of India MSP Scheme,Export Policy Update,Subsidy on Export,2021,-3.5907577502523735
+68,Canola,40.4,High demand,Strong price increase,Horticulture Mission for North East,Import Duty Reduction,Subsidy on Processing Units,2022,3.0219698075403976
+69,Sorghum,41.6,Excess supply,Potential price drop,Organic Farming Promotion Scheme,Organic Farming Promotion,Subsidy on Storage,2023,-4.254493563202292
+70,Beetroot,42.8,High demand,Strong price increase,Dairy Entrepreneurship Development Scheme,Agri-Export Policy,Credit Support for Farmers,2024,4.868869366005173
+71,Sweet Potato,44.0,High demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Loan Interest Waiver,Subsidy for Machinery Purchase,2018,2.7224476929665737
+72,Radish,45.2,Excess supply,Potential price drop,Cold Storage Subsidy Scheme,Market Linkage Support,Irrigation Support Scheme,2019,-3.012843184658276
+73,Turnip,46.4,Excess supply,Potential price drop,PM Fasal Bima Yojana (PMFBY),Crop Insurance Expansion,Cold Storage Subsidy,2020,-4.944778828763976
+74,Okra,47.6,High demand,Strong price increase,PM-Kisan Samman Nidhi,Climate-Resilient Agriculture Policy,Seed Subsidy,2021,3.154614284548341
+75,Green Beans,48.8,High demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Digital Agriculture Promotion,Fertilizer Subsidy,2022,2.0685734384761716
+76,Peas,50.0,High demand,Moderate price increase,Interest Subvention Scheme (ISS),Water Conservation Policy,Dairy Farming Support,2023,2.2900716804098735
+77,Broccoli,51.2,High demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Soil Health Management Policy,Renewable Energy for Farms,2024,2.712703466859457
+78,Celery,52.4,Excess supply,Potential price drop,National Food Security Mission (NFSM),Precision Farming Promotion,Farm Mechanization Subsidy,2018,-4.259553482659096
+79,Parsley,53.6,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Increased MSP,MSP Support,2019,-1.4153427145572737
+80,Basil,54.8,Excess supply,Potential price drop,Horticulture Mission for North East,Export Policy Update,Subsidy on Export,2020,-3.841309404748703
+81,Chili,56.0,High demand,Strong price increase,Organic Farming Promotion Scheme,Import Duty Reduction,Subsidy on Processing Units,2021,3.6310342587559354
+82,Bitter Gourd,57.2,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Organic Farming Promotion,Subsidy on Storage,2022,1.2329812682755792
+83,Bottle Gourd,58.4,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Agri-Export Policy,Credit Support for Farmers,2023,-1.6910197514735081
+84,Ash Gourd,59.6,Excess supply,Potential price drop,Cold Storage Subsidy Scheme,Loan Interest Waiver,Subsidy for Machinery Purchase,2024,-4.364416497139763
+85,Zucchini,60.8,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Market Linkage Support,Irrigation Support Scheme,2018,-1.890176782843378
+86,Mushrooms,62.0,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Crop Insurance Expansion,Cold Storage Subsidy,2019,-1.7481667797325295
+87,Corn,63.2,High demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Climate-Resilient Agriculture Policy,Seed Subsidy,2020,2.2960617833806403
+88,Bamboo,64.4,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Digital Agriculture Promotion,Fertilizer Subsidy,2021,1.3755747135521315
+89,Betel Leaf,65.6,High demand,Strong price increase,Rashtriya Krishi Vikas Yojana (RKVY),Water Conservation Policy,Dairy Farming Support,2022,3.8721274257632654
+90,Nutmeg,66.8,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Soil Health Management Policy,Renewable Energy for Farms,2023,-0.27785074838050683
+91,Cloves,68.0,Excess supply,Potential price drop,Cotton Corporation of India MSP Scheme,Precision Farming Promotion,Farm Mechanization Subsidy,2024,-3.804057540616983
+92,Vanilla,69.2,High demand,Moderate price increase,Horticulture Mission for North East,Increased MSP,MSP Support,2018,2.1324478722299496
+93,Saffron,70.4,High demand,Moderate price increase,Organic Farming Promotion Scheme,Export Policy Update,Subsidy on Export,2019,2.6078504861689744
+94,Sesame Seeds,71.6,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Import Duty Reduction,Subsidy on Processing Units,2020,0.6127719756949626
+95,Palm Oil,72.8,High demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Organic Farming Promotion,Subsidy on Storage,2021,2.7096717995456103
+96,Olives,74.0,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Agri-Export Policy,Credit Support for Farmers,2022,-0.06204403635609257
+97,Gooseberry,75.2,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Loan Interest Waiver,Subsidy for Machinery Purchase,2023,0.2273282938199408
+98,Aloe Vera,76.4,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Market Linkage Support,Irrigation Support Scheme,2024,-0.7245898164145039
+99,Neem,77.6,Excess supply,Potential price drop,Agriculture Infrastructure Fund (AIF),Crop Insurance Expansion,Cold Storage Subsidy,2018,-4.745808732559048
+100,Tulsi,78.8,Excess supply,Potential price drop,Interest Subvention Scheme (ISS),Climate-Resilient Agriculture Policy,Seed Subsidy,2019,-3.9210857300669555
+101,Sweet Potato,22.28,Excess supply,Potential price drop,PM Fasal Bima Yojana (PMFBY),Export Policy Update,Seed Subsidy,2020,-4.685708143132658
+102,Strawberry,21.79,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Market Linkage Support,Subsidy on Storage,2018,1.3641041126378042
+103,Banana,46.49,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Precision Farming Promotion,Renewable Energy for Farms,2022,-1.856440189236733
+104,Canola,44.42,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Increased MSP,Credit Support for Farmers,2020,0.08570691164702815
+105,Betel Leaf,17.74,High demand,Strong price increase,Horticulture Mission for North East,Soil Health Management Policy,Subsidy on Processing Units,2022,4.0756647392609295
+106,Saffron,45.44,Excess supply,Moderate price increase,Fisheries and Aquaculture Development Fund,Crop Insurance Expansion,Subsidy on Storage,2019,-2.5070777085112503
+107,Turnip,49.9,Stable demand,Moderate price increase,Horticulture Mission for North East,Agri-Export Policy,Credit Support for Farmers,2015,-0.8961707696437031
+108,Apple,33.06,High demand,Moderate price increase,National Food Security Mission (NFSM),Water Conservation Policy,Farm Mechanization Subsidy,2016,2.5555113854304867
+109,Peach,38.5,Excess supply,Moderate price increase,National Food Security Mission (NFSM),Increased MSP,Subsidy on Processing Units,2018,-2.7120183450837754
+110,Tomato,32.32,Excess supply,Potential price drop,Horticulture Mission for North East,Digital Agriculture Promotion,Subsidy for Machinery Purchase,2024,-4.23020090171207
+111,Apple,31.29,Excess supply,Moderate price increase,Organic Farming Promotion Scheme,Soil Health Management Policy,Subsidy on Processing Units,2014,-2.1024854708623195
+112,Onion,21.16,Excess supply,Potential price drop,Agriculture Infrastructure Fund (AIF),Import Duty Reduction,Seed Subsidy,2023,-3.387787127459956
+113,Coffee,40.15,High demand,Strong price increase,Organic Farming Promotion Scheme,Crop Insurance Expansion,Fertilizer Subsidy,2020,4.29697652342573
+114,Maize,32.42,High demand,Strong price increase,Cotton Corporation of India MSP Scheme,Water Conservation Policy,Cold Storage Subsidy,2014,3.0812037956441696
+115,Turmeric,20.41,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Soil Health Management Policy,Seed Subsidy,2023,1.3340375651042349
+116,Pumpkin,48.08,High demand,Strong price increase,Dairy Entrepreneurship Development Scheme,Agri-Export Policy,Cold Storage Subsidy,2023,3.714605901877178
+117,Barley,34.36,High demand,Strong price increase,Cold Storage Subsidy Scheme,Precision Farming Promotion,Seed Subsidy,2015,3.0367207689911453
+118,Brinjal,33.07,Excess supply,Potential price drop,PM-Kisan Samman Nidhi,Digital Agriculture Promotion,Dairy Farming Support,2023,-3.134299411139642
+119,Cardamom,20.05,High demand,Strong price increase,National Food Security Mission (NFSM),Loan Interest Waiver,Renewable Energy for Farms,2024,3.925589984899778
+120,Celery,23.28,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Agri-Export Policy,Credit Support for Farmers,2019,0.393422419156507
+121,Mango,30.89,High demand,Strong price increase,Dairy Entrepreneurship Development Scheme,Climate-Resilient Agriculture Policy,Credit Support for Farmers,2019,3.0744015516406247
+122,Lettuce,34.37,High demand,Strong price increase,Agriculture Infrastructure Fund (AIF),Increased MSP,MSP Support,2022,3.9609129992349317
+123,Okra,20.66,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Digital Agriculture Promotion,Dairy Farming Support,2015,-1.8199652502813612
+124,Ragi,21.15,Excess supply,Potential price drop,Cold Storage Subsidy Scheme,Soil Health Management Policy,Dairy Farming Support,2015,-3.8994807547232324
+125,Kiwi,47.17,Excess supply,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Crop Insurance Expansion,Dairy Farming Support,2022,-2.720648374580583
+126,Mustard,45.7,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Soil Health Management Policy,Subsidy on Processing Units,2024,-0.7289221137374371
+127,Tulsi,39.34,High demand,Strong price increase,Organic Farming Promotion Scheme,Water Conservation Policy,MSP Support,2019,3.1801476592249305
+128,Coconut,49.57,High demand,Strong price increase,PM Fasal Bima Yojana (PMFBY),Increased MSP,Renewable Energy for Farms,2016,3.6073058325634335
+129,Saffron,34.06,Excess supply,Potential price drop,Cold Storage Subsidy Scheme,Market Linkage Support,Seed Subsidy,2018,-4.930478694688093
+130,Castor Seed,17.35,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Increased MSP,Subsidy on Export,2024,0.10747302577565776
+131,Cotton,39.4,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Agri-Export Policy,Dairy Farming Support,2024,-0.8258899685122101
+132,Betel Leaf,27.37,Excess supply,Moderate price increase,Dairy Entrepreneurship Development Scheme,Crop Insurance Expansion,Renewable Energy for Farms,2017,-2.7789218952926973
+133,Onion,18.18,Excess supply,Potential price drop,Organic Farming Promotion Scheme,Export Policy Update,Farm Mechanization Subsidy,2015,-3.8013463266631717
+134,Zucchini,35.09,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Soil Health Management Policy,Cold Storage Subsidy,2016,-1.6238482859637204
+135,Potato,18.51,High demand,Strong price increase,National Food Security Mission (NFSM),Market Linkage Support,Subsidy on Storage,2022,4.4290970391251925
+136,Tulsi,35.31,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Export Policy Update,Farm Mechanization Subsidy,2016,-1.7679706797924477
+137,Zucchini,17.15,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Soil Health Management Policy,Irrigation Support Scheme,2023,0.1879062174336612
+138,Kiwi,43.54,High demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Market Linkage Support,Subsidy on Export,2015,2.030189588951778
+139,Chickpeas,18.93,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Market Linkage Support,Credit Support for Farmers,2021,-1.3637039762070602
+140,Coriander,42.55,High demand,Strong price increase,Organic Farming Promotion Scheme,Organic Farming Promotion,Subsidy on Processing Units,2014,4.717820827209607
+141,Pumpkin,23.27,High demand,Strong price increase,National Food Security Mission (NFSM),Market Linkage Support,Irrigation Support Scheme,2020,4.624472949421111
+142,Kiwi,49.59,Excess supply,Moderate price increase,Dairy Entrepreneurship Development Scheme,Precision Farming Promotion,Irrigation Support Scheme,2021,-2.4821770417463584
+143,Rice,37.11,Stable demand,Moderate price increase,Horticulture Mission for North East,Soil Health Management Policy,Subsidy on Storage,2021,-0.02751494107614505
+144,Sugar,15.44,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Agri-Export Policy,MSP Support,2020,-1.9912169018323036
+145,Sesame,31.67,Excess supply,Moderate price increase,Fisheries and Aquaculture Development Fund,Crop Insurance Expansion,Fertilizer Subsidy,2020,-2.151595056225324
+146,Plum,23.46,Excess supply,Potential price drop,Cold Storage Subsidy Scheme,Soil Health Management Policy,Dairy Farming Support,2024,-4.6311305264546725
+147,Bamboo,34.42,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Loan Interest Waiver,Renewable Energy for Farms,2021,1.0956433397989684
+148,Cashew Nut,36.74,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Water Conservation Policy,Subsidy on Processing Units,2024,0.0267902322886151
+149,Radish,42.83,Excess supply,Potential price drop,Interest Subvention Scheme (ISS),Loan Interest Waiver,Seed Subsidy,2016,-4.485212487500107
+150,Brinjal,36.06,Excess supply,Moderate price increase,Dairy Entrepreneurship Development Scheme,Crop Insurance Expansion,Fertilizer Subsidy,2019,-2.2135353576338854
+151,Green Beans,45.98,High demand,Strong price increase,PM-Kisan Samman Nidhi,Climate-Resilient Agriculture Policy,Subsidy on Processing Units,2021,4.082658859666537
+152,Zucchini,30.07,Excess supply,Moderate price increase,Cotton Corporation of India MSP Scheme,Market Linkage Support,Credit Support for Farmers,2019,-2.604381093330276
+153,Brinjal,27.8,Excess supply,Potential price drop,Horticulture Mission for North East,Loan Interest Waiver,Farm Mechanization Subsidy,2020,-3.551051279087769
+154,Mushrooms,27.6,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Water Conservation Policy,Subsidy on Processing Units,2023,-0.10547239722436963
+155,Turnip,46.17,High demand,Strong price increase,Horticulture Mission for North East,Market Linkage Support,Subsidy on Processing Units,2016,4.856504541106007
+156,Sunflower,15.34,Excess supply,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Agri-Export Policy,Farm Mechanization Subsidy,2019,-2.5794472848849956
+157,Barley,49.44,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Water Conservation Policy,Subsidy on Storage,2023,1.721355474058786
+158,Palm Oil,31.77,High demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Crop Insurance Expansion,Subsidy on Storage,2016,2.6161961532871754
+159,Apple,39.75,Excess supply,Moderate price increase,Organic Farming Promotion Scheme,Digital Agriculture Promotion,Subsidy for Machinery Purchase,2020,-2.6236245600760033
+160,Saffron,42.55,High demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Organic Farming Promotion,MSP Support,2020,2.2821634861185958
+161,Millets,40.11,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Export Policy Update,Subsidy on Export,2017,-1.322168672807468
+162,Almond,24.91,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Precision Farming Promotion,Irrigation Support Scheme,2014,1.3230583059357945
+163,Banana,16.26,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Climate-Resilient Agriculture Policy,Fertilizer Subsidy,2018,1.3352971076089473
+164,Castor Seed,46.82,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Soil Health Management Policy,Subsidy for Machinery Purchase,2014,0.357746840747585
+165,Garlic,16.08,Excess supply,Potential price drop,Cold Storage Subsidy Scheme,Crop Insurance Expansion,Seed Subsidy,2022,-4.097102299455917
+166,Walnut,27.8,High demand,Strong price increase,Interest Subvention Scheme (ISS),Increased MSP,Farm Mechanization Subsidy,2019,3.35302495589238
+167,Walnut,40.45,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Digital Agriculture Promotion,Irrigation Support Scheme,2017,-1.7921993502826417
+168,Date Palm,47.49,Excess supply,Potential price drop,PM Fasal Bima Yojana (PMFBY),Agri-Export Policy,Subsidy on Storage,2020,-3.1348148960014575
+169,Peas,48.25,Excess supply,Potential price drop,Dairy Entrepreneurship Development Scheme,Agri-Export Policy,Subsidy for Machinery Purchase,2020,-4.592248584452361
+170,Walnut,24.35,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Market Linkage Support,Credit Support for Farmers,2019,0.9089294318824184
+171,Jute,24.42,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Export Policy Update,Renewable Energy for Farms,2014,1.7756436184228246
+172,Pumpkin,19.65,Excess supply,Potential price drop,Cotton Corporation of India MSP Scheme,Agri-Export Policy,Irrigation Support Scheme,2019,-4.834121710721439
+173,Neem,33.76,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Organic Farming Promotion,Cold Storage Subsidy,2017,0.12093058299281001
+174,Celery,17.85,Excess supply,Moderate price increase,Dairy Entrepreneurship Development Scheme,Soil Health Management Policy,Subsidy on Storage,2024,-2.7350422480206205
+175,Palm Oil,46.97,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Precision Farming Promotion,Dairy Farming Support,2022,1.4517279040944988
+176,Pumpkin,41.06,Excess supply,Potential price drop,Fisheries and Aquaculture Development Fund,Market Linkage Support,Subsidy on Processing Units,2015,-3.2563357099500854
+177,Cauliflower,40.98,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Market Linkage Support,Subsidy on Storage,2023,1.90937738102466
+178,Dragon Fruit,25.16,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Water Conservation Policy,Fertilizer Subsidy,2015,-1.132646536994626
+179,Tea,44.73,High demand,Strong price increase,Agriculture Infrastructure Fund (AIF),Increased MSP,Farm Mechanization Subsidy,2024,4.367299887367345
+180,Lychee,30.72,Excess supply,Potential price drop,Cold Storage Subsidy Scheme,Agri-Export Policy,Seed Subsidy,2021,-3.6247905585400675
+181,Coffee,19.33,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Climate-Resilient Agriculture Policy,MSP Support,2017,-1.589336489497415
+182,Cauliflower,22.68,Excess supply,Potential price drop,National Food Security Mission (NFSM),Import Duty Reduction,Fertilizer Subsidy,2022,-3.8652647875941093
+183,Beetroot,46.23,High demand,Strong price increase,PM Fasal Bima Yojana (PMFBY),Market Linkage Support,Dairy Farming Support,2023,4.246936182785628
+184,Cloves,20.51,High demand,Strong price increase,Agriculture Infrastructure Fund (AIF),Digital Agriculture Promotion,Dairy Farming Support,2020,3.7733935338098092
+185,Canola,15.89,Excess supply,Moderate price increase,Fisheries and Aquaculture Development Fund,Precision Farming Promotion,Credit Support for Farmers,2018,-2.420583722848444
+186,Ragi,27.17,Stable demand,Moderate price increase,National Food Security Mission (NFSM),Export Policy Update,MSP Support,2021,1.59984046034179
+187,Green Beans,32.94,High demand,Strong price increase,National Food Security Mission (NFSM),Export Policy Update,Fertilizer Subsidy,2020,3.172222002012159
+188,Rice,34.81,Stable demand,Moderate price increase,Horticulture Mission for North East,Climate-Resilient Agriculture Policy,MSP Support,2014,0.5520081159946235
+189,Coriander,31.39,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Market Linkage Support,Subsidy on Processing Units,2014,0.29650578356006463
+190,Strawberry,49.06,Excess supply,Moderate price increase,Dairy Entrepreneurship Development Scheme,Agri-Export Policy,Seed Subsidy,2023,-2.581477090995483
+191,Corn,44.54,Excess supply,Potential price drop,Fisheries and Aquaculture Development Fund,Precision Farming Promotion,Subsidy on Processing Units,2017,-4.068972321941008
+192,Barley,47.3,High demand,Strong price increase,Organic Farming Promotion Scheme,Export Policy Update,Subsidy on Export,2015,3.972157579533267
+193,Castor Seed,27.07,High demand,Strong price increase,PM Fasal Bima Yojana (PMFBY),Precision Farming Promotion,Subsidy on Export,2021,4.004180571633304
+194,Kiwi,34.56,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Soil Health Management Policy,Cold Storage Subsidy,2018,1.3310145727326796
+195,Almond,24.42,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Loan Interest Waiver,Dairy Farming Support,2015,-1.609702089512993
+196,Peas,47.19,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Climate-Resilient Agriculture Policy,Farm Mechanization Subsidy,2016,-1.507904253873391
+197,Banana,24.52,High demand,Moderate price increase,National Food Security Mission (NFSM),Climate-Resilient Agriculture Policy,Subsidy on Storage,2020,2.259556788702394
+198,Coriander,32.31,High demand,Strong price increase,Organic Farming Promotion Scheme,Digital Agriculture Promotion,Cold Storage Subsidy,2023,3.9711025995257714
+199,Date Palm,24.06,High demand,Strong price increase,Cotton Corporation of India MSP Scheme,Market Linkage Support,Dairy Farming Support,2018,3.870864242651173
+200,Sweet Potato,20.61,High demand,Moderate price increase,Horticulture Mission for North East,Soil Health Management Policy,Subsidy on Storage,2020,2.798755458576238
+201,Guava,42.27,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Crop Insurance Expansion,Fertilizer Subsidy,2016,1.4203164615428774
+202,Rubber,21.57,Excess supply,Potential price drop,National Food Security Mission (NFSM),Digital Agriculture Promotion,Cold Storage Subsidy,2023,-4.158600350049512
+203,Mango,33.29,Excess supply,Potential price drop,Cotton Corporation of India MSP Scheme,Soil Health Management Policy,Subsidy on Storage,2024,-3.3837128590538623
+204,Tulsi,20.54,High demand,Strong price increase,Organic Farming Promotion Scheme,Soil Health Management Policy,Subsidy for Machinery Purchase,2024,3.985541885270793
+205,Bajra,35.66,Stable demand,Moderate price increase,Horticulture Mission for North East,Export Policy Update,Subsidy on Processing Units,2019,1.0642905965958995
+206,Carrot,43.34,Excess supply,Potential price drop,PM Fasal Bima Yojana (PMFBY),Loan Interest Waiver,MSP Support,2014,-4.908029483833704
+207,Pulses,37.97,Excess supply,Potential price drop,Horticulture Mission for North East,Soil Health Management Policy,Credit Support for Farmers,2018,-3.9852845713396787
+208,Lychee,45.89,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Import Duty Reduction,Subsidy on Storage,2024,1.6350176910805576
+209,Peach,29.02,Excess supply,Potential price drop,PM Fasal Bima Yojana (PMFBY),Loan Interest Waiver,Credit Support for Farmers,2023,-4.949384161537813
+210,Cauliflower,30.43,Excess supply,Potential price drop,Organic Farming Promotion Scheme,Agri-Export Policy,Fertilizer Subsidy,2024,-3.3919194858250137
+211,Celery,30.57,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Loan Interest Waiver,Subsidy on Processing Units,2021,0.48733789366586144
+212,Cumin,22.02,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Loan Interest Waiver,Dairy Farming Support,2019,1.918951976926932
+213,Zucchini,22.13,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Soil Health Management Policy,Farm Mechanization Subsidy,2015,1.5196125950260058
+214,Chickpeas,38.25,Excess supply,Moderate price increase,Fisheries and Aquaculture Development Fund,Crop Insurance Expansion,Fertilizer Subsidy,2014,-2.757306905394402
+215,Barley,38.41,High demand,Moderate price increase,National Food Security Mission (NFSM),Water Conservation Policy,Farm Mechanization Subsidy,2016,2.1217922134753584
+216,Papaya,17.42,Excess supply,Moderate price increase,Cold Storage Subsidy Scheme,Market Linkage Support,Irrigation Support Scheme,2016,-2.6275091250319993
+217,Broccoli,48.67,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Export Policy Update,Credit Support for Farmers,2014,-1.7460030184073227
+218,Kiwi,29.23,High demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Crop Insurance Expansion,Subsidy on Storage,2017,2.4649140511802416
+219,Zucchini,23.95,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Digital Agriculture Promotion,Cold Storage Subsidy,2023,1.496328990472147
+220,Cumin,48.11,High demand,Strong price increase,Fisheries and Aquaculture Development Fund,Water Conservation Policy,Subsidy on Processing Units,2020,3.4922341049417795
+221,Sugar,41.87,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Water Conservation Policy,MSP Support,2024,1.5761289230034334
+222,Watermelon,40.03,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Import Duty Reduction,Dairy Farming Support,2016,0.6830860333547157
+223,Sweet Potato,41.83,Excess supply,Potential price drop,Fisheries and Aquaculture Development Fund,Climate-Resilient Agriculture Policy,Seed Subsidy,2015,-4.063252321719075
+224,Pulses,27.37,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Climate-Resilient Agriculture Policy,Subsidy for Machinery Purchase,2024,-1.3228419694056646
+225,Zucchini,21.79,Excess supply,Moderate price increase,Dairy Entrepreneurship Development Scheme,Water Conservation Policy,Farm Mechanization Subsidy,2019,-2.3479763231827455
+226,Peas,22.73,Excess supply,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Agri-Export Policy,MSP Support,2024,-2.5601035662091642
+227,Onion,17.69,High demand,Strong price increase,Rashtriya Krishi Vikas Yojana (RKVY),Increased MSP,Fertilizer Subsidy,2019,4.730105547524456
+228,Spinach,27.28,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Organic Farming Promotion,Renewable Energy for Farms,2020,-1.069022753332396
+229,Almond,30.78,High demand,Strong price increase,Interest Subvention Scheme (ISS),Precision Farming Promotion,Dairy Farming Support,2015,3.9204655517711338
+230,Basil,49.44,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Precision Farming Promotion,Renewable Energy for Farms,2016,1.311386259972629
+231,Parsley,44.81,High demand,Moderate price increase,Interest Subvention Scheme (ISS),Agri-Export Policy,Irrigation Support Scheme,2015,2.948113035416484
+232,Ragi,17.17,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Water Conservation Policy,Subsidy on Storage,2014,0.0263709310519209
+233,Coconut,21.0,Stable demand,Moderate price increase,Horticulture Mission for North East,Import Duty Reduction,Renewable Energy for Farms,2014,0.7690388462635909
+234,Coconut,26.05,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Loan Interest Waiver,Subsidy for Machinery Purchase,2017,-0.07482306181136078
+235,Peach,36.96,Excess supply,Potential price drop,Dairy Entrepreneurship Development Scheme,Crop Insurance Expansion,Subsidy for Machinery Purchase,2014,-3.047570122019555
+236,Sugar,23.95,High demand,Moderate price increase,Horticulture Mission for North East,Climate-Resilient Agriculture Policy,Credit Support for Farmers,2018,2.2245211526150532
+237,Banana,46.14,Excess supply,Moderate price increase,Dairy Entrepreneurship Development Scheme,Import Duty Reduction,Farm Mechanization Subsidy,2014,-2.192276375591442
+238,Flaxseed,30.2,Excess supply,Potential price drop,PM-Kisan Samman Nidhi,Organic Farming Promotion,Subsidy on Processing Units,2014,-4.756840335685462
+239,Ragi,19.49,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Market Linkage Support,Cold Storage Subsidy,2017,1.4547229590716784
+240,Watermelon,41.28,Excess supply,Potential price drop,Cold Storage Subsidy Scheme,Digital Agriculture Promotion,Fertilizer Subsidy,2015,-3.2288932059295106
+241,Lychee,15.44,High demand,Strong price increase,Cold Storage Subsidy Scheme,Loan Interest Waiver,Subsidy on Processing Units,2022,4.4045858435291425
+242,Grapes,25.98,High demand,Strong price increase,PM-Kisan Samman Nidhi,Organic Farming Promotion,Seed Subsidy,2022,4.539285770025874
+243,Walnut,22.21,High demand,Strong price increase,Fisheries and Aquaculture Development Fund,Crop Insurance Expansion,Renewable Energy for Farms,2024,4.148643902204485
+244,Coriander,43.8,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Water Conservation Policy,Farm Mechanization Subsidy,2023,-1.2984129974455563
+245,Linseed,41.08,Excess supply,Potential price drop,National Food Security Mission (NFSM),Increased MSP,Subsidy for Machinery Purchase,2015,-4.845433834711326
+246,Tomato,20.12,High demand,Strong price increase,Dairy Entrepreneurship Development Scheme,Digital Agriculture Promotion,Subsidy on Storage,2021,4.283185625877254
+247,Watermelon,29.82,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Import Duty Reduction,Credit Support for Farmers,2022,-0.7181585168268567
+248,Turmeric,28.6,High demand,Strong price increase,PM Fasal Bima Yojana (PMFBY),Crop Insurance Expansion,Subsidy on Storage,2016,4.666548190436696
+249,Maize,42.41,High demand,Strong price increase,Horticulture Mission for North East,Digital Agriculture Promotion,Seed Subsidy,2024,4.636199770892528
+250,Bitter Gourd,39.14,High demand,Strong price increase,Dairy Entrepreneurship Development Scheme,Loan Interest Waiver,Seed Subsidy,2014,3.5300945546736013
+251,Basil,40.79,Excess supply,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Market Linkage Support,Fertilizer Subsidy,2017,-2.055511079304143
+252,Sugar,42.71,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Loan Interest Waiver,Farm Mechanization Subsidy,2016,-1.1490227139807474
+253,Beetroot,18.67,High demand,Strong price increase,Fisheries and Aquaculture Development Fund,Crop Insurance Expansion,Fertilizer Subsidy,2024,3.5113667151685686
+254,Mango,32.79,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Climate-Resilient Agriculture Policy,Farm Mechanization Subsidy,2024,-1.8307799484372236
+255,Basil,26.37,Excess supply,Potential price drop,Interest Subvention Scheme (ISS),Agri-Export Policy,Renewable Energy for Farms,2023,-3.305072533139075
+256,Tomato,26.68,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Market Linkage Support,MSP Support,2022,0.5680126245835018
+257,Mushrooms,32.26,High demand,Strong price increase,Cotton Corporation of India MSP Scheme,Water Conservation Policy,Subsidy on Export,2023,4.36154774160781
+258,Plum,45.13,Stable demand,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Export Policy Update,MSP Support,2014,1.9602979667497298
+259,Castor Seed,27.4,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Import Duty Reduction,Subsidy on Storage,2019,0.7006117008936492
+260,Jute,43.11,Excess supply,Potential price drop,Cold Storage Subsidy Scheme,Market Linkage Support,MSP Support,2024,-4.028235062292315
+261,Millets,37.26,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Digital Agriculture Promotion,Subsidy on Export,2018,1.1500722669916978
+262,Chickpeas,30.89,High demand,Strong price increase,Cotton Corporation of India MSP Scheme,Increased MSP,Renewable Energy for Farms,2022,4.900538501042632
+263,Vanilla,27.43,Excess supply,Potential price drop,Fisheries and Aquaculture Development Fund,Organic Farming Promotion,Fertilizer Subsidy,2020,-3.59915984763476
+264,Gooseberry,19.74,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Digital Agriculture Promotion,Renewable Energy for Farms,2015,0.1832965236373676
+265,Tulsi,16.42,High demand,Strong price increase,Horticulture Mission for North East,Loan Interest Waiver,Subsidy on Storage,2015,3.7737307192795537
+266,Betel Leaf,45.36,High demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Organic Farming Promotion,Subsidy for Machinery Purchase,2018,2.407686177542044
+267,Jowar,31.04,Stable demand,Moderate price increase,Dairy Entrepreneurship Development Scheme,Export Policy Update,Credit Support for Farmers,2014,1.9701574099526802
+268,Parsley,32.61,High demand,Moderate price increase,Interest Subvention Scheme (ISS),Organic Farming Promotion,Subsidy on Storage,2022,2.024840839871093
+269,Olives,40.84,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Export Policy Update,Subsidy on Export,2017,-1.4050884878024483
+270,Dragon Fruit,46.7,Excess supply,Moderate price increase,Horticulture Mission for North East,Climate-Resilient Agriculture Policy,Renewable Energy for Farms,2016,-2.0640815573550664
+271,Zucchini,23.66,High demand,Strong price increase,National Food Security Mission (NFSM),Export Policy Update,Cold Storage Subsidy,2023,3.093611554785136
+272,Cloves,48.01,High demand,Strong price increase,Organic Farming Promotion Scheme,Agri-Export Policy,Renewable Energy for Farms,2024,3.1011339467918084
+273,Jackfruit,19.16,High demand,Strong price increase,PM-Kisan Samman Nidhi,Precision Farming Promotion,Subsidy on Processing Units,2017,3.6707231858010374
+274,Okra,17.22,High demand,Strong price increase,PM-Kisan Samman Nidhi,Organic Farming Promotion,Subsidy on Processing Units,2017,4.132405525564714
+275,Pumpkin,24.56,Stable demand,Moderate price increase,Organic Farming Promotion Scheme,Market Linkage Support,Dairy Farming Support,2019,0.11342398860937841
+276,Canola,17.07,Stable demand,Moderate price increase,Cotton Corporation of India MSP Scheme,Climate-Resilient Agriculture Policy,Subsidy on Storage,2017,0.015162946871996041
+277,Turmeric,36.09,High demand,Moderate price increase,National Food Security Mission (NFSM),Climate-Resilient Agriculture Policy,Credit Support for Farmers,2014,2.9829517896677515
+278,Walnut,25.75,Stable demand,Moderate price increase,Horticulture Mission for North East,Import Duty Reduction,Subsidy for Machinery Purchase,2017,1.4996393077776515
+279,Basil,39.78,High demand,Moderate price increase,Interest Subvention Scheme (ISS),Water Conservation Policy,Irrigation Support Scheme,2024,2.0196687725770337
+280,Radish,39.68,High demand,Moderate price increase,Horticulture Mission for North East,Climate-Resilient Agriculture Policy,Subsidy on Storage,2015,2.95792669436101
+281,Okra,15.8,High demand,Strong price increase,Interest Subvention Scheme (ISS),Organic Farming Promotion,MSP Support,2020,3.9000534181756628
+282,Strawberry,25.62,Stable demand,Moderate price increase,Horticulture Mission for North East,Agri-Export Policy,Renewable Energy for Farms,2014,-1.620048431484642
+283,Date Palm,42.46,Stable demand,Moderate price increase,Agriculture Infrastructure Fund (AIF),Market Linkage Support,Renewable Energy for Farms,2024,-1.24417047360056
+284,Corn,49.83,Excess supply,Potential price drop,Interest Subvention Scheme (ISS),Soil Health Management Policy,Farm Mechanization Subsidy,2020,-4.06018060159131
+285,Papaya,28.44,Stable demand,Moderate price increase,Rashtriya Krishi Vikas Yojana (RKVY),Soil Health Management Policy,Subsidy for Machinery Purchase,2018,0.7828014099617402
+286,Ragi,29.41,Excess supply,Potential price drop,National Food Security Mission (NFSM),Water Conservation Policy,Renewable Energy for Farms,2021,-4.640577262032579
+287,Chili,20.76,Stable demand,Moderate price increase,Fisheries and Aquaculture Development Fund,Export Policy Update,Fertilizer Subsidy,2022,-0.3440198186753989
+288,Bottle Gourd,44.53,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Precision Farming Promotion,Subsidy on Export,2014,0.4264463470757658
+289,Castor Seed,27.08,Excess supply,Moderate price increase,Horticulture Mission for North East,Organic Farming Promotion,Fertilizer Subsidy,2024,-2.134587478717156
+290,Canola,25.7,Stable demand,Moderate price increase,Interest Subvention Scheme (ISS),Precision Farming Promotion,MSP Support,2021,0.9083326056901075
+291,Flaxseed,24.9,Excess supply,Potential price drop,Dairy Entrepreneurship Development Scheme,Organic Farming Promotion,Fertilizer Subsidy,2020,-4.694997500609506
+292,Palm Oil,32.63,Excess supply,Potential price drop,PM-Kisan Samman Nidhi,Loan Interest Waiver,Fertilizer Subsidy,2018,-4.626518112507856
+293,Coriander,32.54,High demand,Strong price increase,Fisheries and Aquaculture Development Fund,Climate-Resilient Agriculture Policy,Subsidy for Machinery Purchase,2016,3.2260056065965834
+294,Bamboo,45.46,Stable demand,Moderate price increase,Cold Storage Subsidy Scheme,Import Duty Reduction,MSP Support,2019,-1.3980935858873709
+295,Black Pepper,23.84,Excess supply,Potential price drop,PM-Kisan Samman Nidhi,Market Linkage Support,Renewable Energy for Farms,2016,-3.7293948734811524
+296,Rice,37.01,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Export Policy Update,Irrigation Support Scheme,2017,0.2224326005480437
+297,Pulses,37.05,High demand,Moderate price increase,Organic Farming Promotion Scheme,Import Duty Reduction,Subsidy on Storage,2024,2.6999355309861084
+298,Celery,25.14,Excess supply,Moderate price increase,PM Fasal Bima Yojana (PMFBY),Organic Farming Promotion,Subsidy for Machinery Purchase,2021,-2.8417897250315685
+299,Linseed,29.97,Stable demand,Moderate price increase,PM-Kisan Samman Nidhi,Soil Health Management Policy,Subsidy on Storage,2014,1.2289047581900023
+300,Spinach,47.56,Excess supply,Potential price drop,National Food Security Mission (NFSM),Agri-Export Policy,Renewable Energy for Farms,2016,-4.14652535006232

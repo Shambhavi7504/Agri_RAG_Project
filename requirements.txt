@@ -5,3 +5,4 @@ transformers
 duckduckgo-search
 beautifulsoup4
 requests
+neo4j==5.9.0
